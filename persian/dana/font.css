@@ -1,7 +1,7 @@
 @font-face {
     font-family: Dana;
-    src: url('/fonts/persian/dana-fanum-thin.woff2') format('woff2'),
-        url('/fonts/persian/dana-fanum-thin.woff') format('woff');
+    src: url('faNumThin.woff2') format('woff2'),
+        url('faNumThin.woff') format('woff');
     font-weight: 100;
     font-style: normal;
     font-display: block;
@@ -9,8 +9,8 @@
 
 @font-face {
     font-family: Dana;
-    src: url('/fonts/persian/dana-fanum-regular.woff2') format('woff2'),
-        url('/fonts/persian/dana-fanum-regular.woff') format('woff');
+    src: url('faNumRegular.woff2') format('woff2'),
+        url('faNumRegular.woff') format('woff');
     font-weight: 400;
     font-style: normal;
     font-display: block;
@@ -18,8 +18,8 @@
 
 @font-face {
     font-family: Dana;
-    src: url('/fonts/persian/dana-fanum-bold.woff2') format('woff2'),
-        url('/fonts/persian/dana-fanum-bold.woff') format('woff');
+    src: url('faNumBold.woff2') format('woff2'),
+        url('faNumBold.woff') format('woff');
     font-weight: 700;
     font-style: normal;
     font-display: block;
@@ -27,8 +27,8 @@
 
 @font-face {
     font-family: Dana;
-    src: url('/fonts/persian/dana-fanum-black.woff2') format('woff2'),
-        url('/fonts/persian/dana-fanum-black.woff') format('woff');
+    src: url('faNumBlack.woff2') format('woff2'),
+        url('faNumBlack.woff') format('woff');
     font-weight: 900;
     font-style: normal;
     font-display: block;
