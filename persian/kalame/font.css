@@ -1,0 +1,39 @@
+@font-face {
+    font-family: Kalame;
+    src: url('/fonts/persian/kalameWeb_thin.woff2') format('woff2'),
+        url('/fonts/persian/kalameWeb_thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: Kalame;
+    src: url('/fonts/persian/kalameWeb_Regular.woff2') format('woff2'),
+        url('/fonts/persian/kalameWeb_Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: Kalame;
+    src: url('/fonts/persian/kalameWeb_Bold.woff2') format('woff2'),
+        url('/fonts/persian/kalameWeb_Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: Kalame;
+    src: url('/fonts/persian/kalameWeb_Black.woff2') format('woff2'),
+        url('/fonts/persian/kalameWeb_Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: block;
+}
+
+body {
+    font-family: Kalame !important;
+}

@@ -1,0 +1,92 @@
+@font-face {
+    font-family: iranSansX;
+    font-style: normal;
+    font-weight: 100;
+    src: url('/fonts/persian/iranSansX/faNumThin.woff') format('woff'),
+        url('/fonts/persian/iranSansX/faNumThin.woff2') format('woff2');
+    font-display: block;
+}
+
+@font-face {
+    font-family: iranSansX;
+    font-style: normal;
+    font-weight: 200;
+    src: url('/fonts/persian/iranSansX/faNumUltraLight.woff') format('woff'),
+        url('/fonts/persian/iranSansX/faNumUltraLight.woff2') format('woff2');
+    font-display: block;
+}
+
+@font-face {
+    font-family: iranSansX;
+    font-style: normal;
+    font-weight: 300;
+    src: url('/fonts/persian/iranSansX/faNumLight.woff') format('woff'),
+        url('/fonts/persian/iranSansX/faNumLight.woff2') format('woff2');
+    font-display: block;
+}
+
+@font-face {
+    font-family: iranSansX;
+    font-style: normal;
+    font-weight: 500;
+    src: url('/fonts/persian/iranSansX/faNumMedium.woff') format('woff'),
+        url('/fonts/persian/iranSansX/faNumMedium.woff2') format('woff2');
+    font-display: block;
+}
+
+@font-face {
+    font-family: iranSansX;
+    font-style: normal;
+    font-weight: 600;
+    src: url('/fonts/persian/iranSansX/faNumMedium.woff') format('woff'),
+        url('/fonts/persian/iranSansX/faNumMedium.woff2') format('woff2');
+    font-display: block;
+}
+
+@font-face {
+    font-family: iranSansX;
+    font-style: normal;
+    font-weight: 800;
+    src: url('/fonts/persian/iranSansX/faNumMedium.woff') format('woff'),
+        url('/fonts/persian/iranSansX/faNumMedium.woff2') format('woff2');
+    font-display: block;
+}
+
+@font-face {
+    font-family: iranSansX;
+    font-style: normal;
+    font-weight: 900;
+    src: url('/fonts/persian/iranSansX/faNumBlack.woff') format('woff'),
+        url('/fonts/persian/iranSansX/faNumBlack.woff2') format('woff2');
+    font-display: block;
+}
+
+@font-face {
+    font-family: iranSansX;
+    font-style: normal;
+    font-weight: bold;
+    src: url('/fonts/persian/iranSansX/faNumBold.woff') format('woff'),
+        url('/fonts/persian/iranSansX/faNumBold.woff2') format('woff2');
+    font-display: block;
+}
+
+@font-face {
+    font-family: iranSansX;
+    font-style: normal;
+    font-weight: normal;
+    src: url('/fonts/persian/iranSansX/faNumRegular.woff') format('woff'),
+        url('/fonts/persian/iranSansX/faNumRegular.woff2') format('woff2');
+    font-display: block;
+}
+
+.localized-number {
+    -moz-font-feature-settings: 'ss02';
+    -webkit-font-feature-settings: 'ss02';
+    font-feature-settings: 'ss02';
+}
+
+.localized-monospace-number {
+    -moz-font-feature-settings: 'ss03';
+    -webkit-font-feature-settings: 'ss03';
+    font-feature-settings: 'ss03';
+}
